@@ -1,4 +1,3 @@
-# hello-world
-hello-world starter
+# Materials for Foundations for Research Computing
 
-Hi everyone, first attempt! I'm looking to start, and starting to look.
+An assortment of materials including outlines and files
