@@ -1,3 +1,4 @@
+### Main
 #### Shape of coeff matrix
 
 #### Linear model:
@@ -26,3 +27,17 @@ Could use iris dataset. Maybe I'll run out of time to do this though.  Resource 
 #### Beyond (maybe time-depending)
 * Gridsearch
 * Overfitting
+
+
+### Extras
+#### Permutation importance vs Standard importance
+- This might take way too long to do both, might just teach them permutation importance
+
+#### Overfitting and combatting it
+- training
+- testing
+
+#### Final exercise:
+- Advanced: predicting using KNN and accuracy Titanic dataset
+- Basic: predict and interpret different model for Corruption
+
