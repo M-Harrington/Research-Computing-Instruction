@@ -7,4 +7,5 @@
     * Forest Model (and visualizations?)
   * Hyperparam search and Cross Validation
   * Permutation importance (and graph?)
+  * Reproducibility
 * 30 min exercise *or less depending on how much time left*
