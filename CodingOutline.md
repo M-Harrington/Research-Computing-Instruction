@@ -20,11 +20,8 @@ Talk about Coeff
     - show simple, show split
 
 A similar thing maybe should be done with a random forest (and compare results)
-
-#### KNN Example
-Could use iris dataset. Maybe I'll run out of time to do this though.  Resource for this with a pretty graph https://www.youtube.com/watch?v=HC0J_SPm9co
-
-#### Beyond (maybe time-depending)
+<hr></hr>
+#### Beyond
 * Gridsearch
 * Overfitting
 
@@ -40,4 +37,7 @@ Could use iris dataset. Maybe I'll run out of time to do this though.  Resource 
 #### Final exercise:
 - Advanced: predicting using KNN and accuracy Titanic dataset
 - Basic: predict and interpret different model for Corruption
+
+#### KNN Example
+Could use iris dataset. Maybe I'll run out of time to do this though.  Resource for this with a pretty graph https://www.youtube.com/watch?v=HC0J_SPm9co
 
