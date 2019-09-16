@@ -7,7 +7,7 @@ Get Coefficients
 #### Linear model (LASSO):
 Talk about Coeff
 
-#### Decision tree
+#### Decision tree (basics)
 
 * TestTrainSplit 
     - and show what the results are
@@ -21,9 +21,10 @@ Talk about Coeff
 
 A similar thing maybe should be done with a random forest (and compare results)
 <hr></hr>
+
 #### Beyond
-* Gridsearch
-* Overfitting
+* Gridsearch *Not so necessary, CV Very important*
+* Dangers of Overfitting *Much of this could be done on slides*
 
 
 ### Extras
