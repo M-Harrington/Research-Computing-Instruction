@@ -5,7 +5,6 @@
   * ~~Basics and Running the model  (Training, prediction)~~
     * ~~Tree Model (and visualizations)  *Potentially nix*~~
     * ~~Forest Model (and visualizations?)~~
-  * Hyperparam search and ~~Cross Validation~~
+  * ~~Hyperparam search and Cross Validation~~
   * Permutation importance (and graph?)
-  * Reproducibility and Causality *time permitting*
 * 30 min exercise *or less depending on how much time left*
