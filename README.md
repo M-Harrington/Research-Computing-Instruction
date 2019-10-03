@@ -1,3 +1,5 @@
 # Materials for Foundations for Research Computing
 
-An assortment of materials including outlines and files
+Current lessons include:
+
+- Intro to ML for research using Sklearn
