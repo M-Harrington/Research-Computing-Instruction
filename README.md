@@ -2,4 +2,5 @@
 
 Current lessons include:
 
-- Intro to ML for research using Sklearn
+- Intro to ML for scientific research using Sklearn
+- Upcoming: Intro to Latex
